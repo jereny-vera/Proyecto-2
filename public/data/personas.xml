@@ -1,0 +1,28 @@
+<personas> <!-- Contenedor principal que agrupa todas las personas registradas -->
+  <!-- Persona 1 -->
+  <persona> <!-- Inicio de un registro de persona -->
+    <id>1</id> <!-- Identificador único de la persona -->
+    <nombre>Juan Pérez</nombre> <!-- Nombre completo de la persona -->
+    <edad>25</edad> <!-- Edad de la persona -->
+    <capacidad>Discapacidad Visual</capacidad> <!-- Tipo de discapacidad que tiene la persona -->
+    <email>juan.perez@example.com</email> <!-- Correo electrónico de la persona -->
+  </persona>
+
+  <!-- Persona 2 -->
+  <persona> <!-- Inicio de un segundo registro de persona -->
+    <id>2</id> <!-- Identificador único de la persona -->
+    <nombre>María García</nombre> <!-- Nombre completo de la persona -->
+    <edad>30</edad> <!-- Edad de la persona -->
+    <capacidad>Discapacidad Auditiva</capacidad> <!-- Tipo de discapacidad que tiene la persona -->
+    <email>maria.garcia@example.com</email> <!-- Correo electrónico de la persona -->
+  </persona>
+
+  <!-- Persona 3 -->
+  <persona> <!-- Inicio de un tercer registro de persona -->
+    <id>3</id> <!-- Identificador único de la persona -->
+    <nombre>Carlos Sánchez</nombre> <!-- Nombre completo de la persona -->
+    <edad>28</edad> <!-- Edad de la persona -->
+    <capacidad>Discapacidad Motriz</capacidad> <!-- Tipo de discapacidad que tiene la persona -->
+    <email>carlos.sanchez@example.com</email> <!-- Correo electrónico de la persona -->
+  </persona>
+</personas>
